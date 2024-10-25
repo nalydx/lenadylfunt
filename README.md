@@ -1,4 +1,8 @@
-Hello! This is the other modpack Lena and I are making. Lots to work on! Big project!
+<b>HELLO</b>
+<p>
+This is the other modpack Lena and I are making. Lots to work on! Big project!
+<p>
 Server ip is as follows: news-science.gl.joinmc.link
-I have started a Discord Server! post recommendations and whatnot there.
+<p>
+I have started a Discord Server! post recommendations and whatnot there.<br>
 Here's the link: https://discord.gg/Bz9VhsXz
