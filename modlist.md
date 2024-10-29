@@ -1,116 +1,133 @@
-<html>
-  <b>MODLIST</b>
-  <p>
-  <body><ul>
-	<li>EMI</li>
-	<li>Zeta</li>
-	<li>BeansBackpacks</li>
-	<li>EMIffect</li>
-	<li>Immersive Weathering</li>
-	<li>Farmer's Cutting: Quark</li>
-	<li>kotlinforforge-4.11.0-all</li>
-	<li>Macaw's Bridges</li>
-	<li>Rustic Delight</li>
-	<li>FallingTree</li>
-	<li>EMI Ores</li>
-	<li>Miner's Delight</li>
-	<li>Crate Delight</li>
-	<li>Nature's Compass</li>
-	<li>Just Enough Items</li>
-	<li>Vertical Slabs Compat</li>
-	<li>Macaw's Paths and Pavings</li>
-	<li>Cloth Config v10 API</li>
-	<li>Fast IP Ping</li>
-	<li>Macaw's Doors</li>
-	<li>Embeddium</li>
-	<li>Macaw's Lights and Lamps</li>
-	<li>Balm</li>
-	<li>Resourcefulconfig</li>
-	<li>Comforts</li>
-	<li>CraftingTweaks</li>
-	<li>Backported Wolves &amp; Terralith - Compat</li>
-	<li>Chipped</li>
-	<li>Dynamic FPS</li>
-	<li>Macaw's Fences and Walls</li>
-	<li>Jade Addons</li>
-	<li>Corpse</li>
-	<li>Fzzy Config</li>
-	<li>Rechiseled</li>
-	<li>Macaw's Trapdoors</li>
-	<li>Chunky</li>
-	<li>Macaw's Roofs</li>
-	<li>ModernFix</li>
-	<li>tetra</li>
-	<li>Kotlin for Forge</li>
-	<li>Storage Delight</li>
-	<li>Lootr</li>
-	<li>Waystones</li>
-	<li>Bountiful</li>
-	<li>GeckoLib 4</li>
-	<li>Leaves Be Gone</li>
-	<li>Clumps</li>
-	<li>Chefs Delight</li>
-	<li>Resourceful Lib</li>
-	<li>Searchables</li>
-	<li>Chat Heads</li>
-	<li>Geophilic</li>
-	<li>mutil</li>
-	<li>Naturalist</li>
-	<li>Athena</li>
-	<li>Supplementaries</li>
-	<li>Critters and Companions</li>
-	<li>Jade</li>
-	<li>Every Compat</li>
-	<li>Puzzles Lib</li>
-	<li>EMI Trades</li>
-	<li>Elytra Slot</li>
-	<li>Memory Leak Fix</li>
+<html><body><ul>
+	<li>chat_heads-0.13.4-forge-1.20</li>
+	<li>moonlight-1.20-2.13.14-forge</li>
+	<li>qualitysounds-forge-1.5.0-1.20.1</li>
+	<li>polymorph-forge-0.49.5+1.20.1</li>
+	<li>open-parties-and-claims-forge-1.20.1-0.23.2</li>
+	<li>geckolib-neoforge-1.20.1-4.4.9</li>
+	<li>craftingtweaks-forge-1.20.1-18.2.5</li>
+	<li>v_slab_compat-1.20-2.4</li>
+	<li>ferritecore-6.0.1-forge</li>
+	<li>MouseTweaks-forge-mc1.20.1-2.25.1</li>
+	<li>Searchables-forge-1.20.1-1.0.3</li>
+	<li>framework-forge-1.20.1-0.7.11</li>
+	<li>miners_delight-1.20.1-1.2.3</li>
+	<li>[Forge]backported_wolves_forge-1.0.3-1.20.1</li>
+	<li>backported-wolves-terralith-compat-1.0</li>
+	<li>RyoamicLights-forge-0.2.3+mc1.20.1</li>
+	<li>BlockRunner-v8.0.4-1.20.1-Forge</li>
+	<li>mcw-paths-1.0.5-1.20.1forge</li>
+	<li>FallingTree-1.20.1-4.3.4</li>
+	<li>mcw-windows-2.3.0-mc1.20.1forge</li>
+	<li>AmbientSounds_FORGE_v6.1.3_mc1.20.1</li>
+	<li>corpse-forge-1.20.1-1.0.17</li>
+	<li>BetterAdvancements-NeoForge-1.20.1-0.4.2.10</li>
+	<li>Clumps-forge-1.20.1-12.0.0.4</li>
+	<li>Zeta-1.0-24</li>
+	<li>carryon-forge-1.20.1-2.1.2.7</li>
+	<li>resourcefulconfig-forge-1.20.1-2.1.2</li>
+	<li>tetrasdelight-1.20.1-1</li>
+	<li>mcw-bridges-3.0.0-mc1.20.1forge</li>
+	<li>mcw-fences-1.1.2-mc1.20.1forge</li>
+	<li>Controlling-forge-1.20.1-12.0.2</li>
+	<li>appleskin-forge-mc1.20.1-2.5.1</li>
+	<li>GeckoLibOculusCompat-Forge-1.0.1</li>
+	<li>modernfix-forge-5.19.4+mc1.20.1</li>
+	<li>almanac-1.20.x-forge-1.0.2</li>
+	<li>Chunky-1.3.146</li>
+	<li>athena-forge-1.20.1-3.1.2</li>
+	<li>everycomp-1.20-2.6.84H</li>
+	<li>fast-ip-ping-v1.0.5-mc1.20.4-forge</li>
+	<li>oculus-mc1.20.1-1.7.0</li>
+	<li>Terralith_1.20.x_v2.5.4</li>
+	<li>spyglass_improvements-1.5+mc1.20+forge</li>
+	<li>resourcefullib-forge-1.20.1-2.1.29</li>
+	<li>comforts-forge-6.4.0+1.20.1</li>
+	<li>Geophilic v3.1.4 f15-57</li>
+	<li>memoryleakfix-forge-1.17+-1.1.5</li>
+	<li>architectury-9.2.14-forge</li>
+	<li>inventorysorter-1.20.1-23.0.1</li>
+	<li>farmers-cutting-quark-1.0.0</li>
+	<li>ObsidianUI-forge-0.2.3+mc1.20.1</li>
+	<li>mcw-doors-1.1.1forge-mc1.20.1</li>
+	<li>elytraslot-forge-6.4.4+1.20.1</li>
+	<li>mcw-paintings-1.0.5-1.20.1forge</li>
+	<li>nethersdelight-1.20.1-4.0</li>
+	<li>emoji-type-2.2.3+1.20.4-neoforge</li>
+	<li>lootr-forge-1.20-0.7.34.85</li>
+	<li>LeavesBeGone-v8.0.0-1.20.1-Forge</li>
+	<li>Jade-1.20.1-Forge-11.12.1</li>
+	<li>Fog-forge-1.5.2-1.20.1</li>
+	<li>Quark-4.0-460</li>
+	<li>QuarkOddities-1.20.1</li>
+	<li>cloth-config-11.1.136-forge</li>
+	<li>fzzy_config-0.5.5-fix1+1.20.1+forge</li>
+	<li>XaerosWorldMap_1.39.0_Forge_1.20</li>
+	<li>mcw-roofs-2.3.1-mc1.20.1forge</li>
+	<li>Xaeros_Minimap_24.5.0_Forge_1.20</li>
+	<li>cratedelight-24.09.03-1.20-forge</li>
+	<li>chefs-delight-1.0.3-forge-1.20.1</li>
+	<li>mcw-furniture-3.3.0-mc1.20.1forge</li>
+	<li>fusion-1.1.1-forge-mc1.20.1</li>
+	<li>noisium-forge-2.3.0+mc1.20-1.20.1</li>
+	<li>PuzzlesLib-v8.1.24-1.20.1-Forge</li>
+	<li>spawnanimations-v1.9.4-mc1.17x-1.20x-mod</li>
+	<li>CreativeCore_FORGE_v2.12.20_mc1.20.1</li>
+	<li>tetra-1.20.1-6.4.0</li>
+	<li>balm-forge-1.20.1-7.3.9-all</li>
+	<li>mcw-trapdoors-1.1.3-mc1.20.1forge</li>
+	<li>BetterF3-7.0.2-Forge-1.20.1</li>
+	<li>spelunkery-1.20.1-0.3.13-forge</li>
+	<li>ends_delight-1.20.1-2.4</li>
+	<li>moredelight-24.09.27-1.20-forge</li>
+	<li>emi_ores-1.0+1.20.1+forge</li>
+	<li>emiffect-forge-1.1.2+mc1.20.1</li>
+	<li>supermartijn642corelib-1.1.17a-forge-mc1.20.1</li>
+	<li>BetterSmithingTable-1.1.0-Forge-1.20</li>
+	<li>jei-1.20.1-forge-15.20.0.104</li>
+	<li>artifacts-forge-9.5.13</li>
+	<li>refurbished_furniture-forge-1.20.1-1.0.6</li>
+	<li>naturalist-forge-4.0.3-1.20.1</li>
 	<li>essential_1-3-4-3_forge_1-20-1</li>
-	<li>Oculus Flywheel Compat</li>
-	<li>End's Delight</li>
-	<li>Rechiseled: Chipped</li>
-	<li>SuperMartijn642's Core Lib</li>
-	<li>BetterF3</li>
-	<li>Patchouli</li>
-	<li>Macaw's Furniture</li>
-	<li>SuperMartijn642's Config Library</li>
-	<li>Amendments</li>
-	<li>Curios API</li>
-	<li>Controlling</li>
-	<li>EMI Enchanting</li>
-	<li>Tetra's Delight</li>
-	<li>Noisium</li>
-	<li>Backported Wolves</li>
-	<li>Almanac</li>
-	<li>Caelus API</li>
-	<li>Macaw's Windows</li>
-	<li>Xaero's World Map</li>
-	<li>AppleSkin</li>
-	<li>Oculus</li>
-	<li>EntityCulling</li>
-	<li>Creeper Overhaul</li>
-	<li>Ferrite Core</li>
-	<li>Nether's Delight</li>
-	<li>Let Me Despawn</li>
-	<li>Moonlight Library</li>
-	<li>Polymorph</li>
-	<li>Quark Oddities</li>
-	<li>Fusion</li>
-	<li>AmbientSounds</li>
-	<li>Better Advancements</li>
-	<li>tetracelium</li>
-	<li>Dynamic Trees</li>
-	<li>Kambrik</li>
-	<li>Xaero's Minimap</li>
-	<li>Macaw's Paintings</li>
-	<li>EMI Loot</li>
-	<li>GeckoLibIrisCompat</li>
-	<li>Terralith</li>
-	<li>CreativeCore</li>
-	<li>Carry On</li>
-	<li>More Delight</li>
-	<li>Mouse Tweaks</li>
-	<li>Farmer's Delight</li>
-	<li>Quark</li>
-	<li>Simple Inventory Sorter</li>
+	<li>rusticdelight-forge-1.20-1.2.0</li>
+	<li>kotlinforforge-4.11.0-all</li>
+	<li>villager-transportation-1.3.1</li>
+	<li>YetAnotherConfigLib-3.6.1+1.20.1-forge</li>
+	<li>amendments-1.20-1.2.12</li>
+	<li>crittersandcompanions-1.20.1-2.1.7</li>
+	<li>embeddium-0.3.31+mc1.20.1</li>
+	<li>supplementaries-1.20-2.8.17</li>
+	<li>letmedespawn-1.20.x-forge-1.4.4</li>
+	<li>emi-1.1.16+1.20.1+forge</li>
+	<li>JadeAddons-1.20.1-Forge-5.3.1</li>
+	<li>storagedelight-24.09.11-1.20-forge</li>
+	<li>immersive_weathering-1.20.1-2.0.3-forge</li>
+	<li>chipped-forge-1.20.1-3.0.7</li>
+	<li>FarmersDelight-1.20.1-1.2.4</li>
+	<li>Bountiful-6.0.3+1.20.1-forge</li>
+	<li>entityculling-forge-1.7.0-mc1.20.1</li>
+	<li>mutil-1.20.1-6.1.1</li>
+	<li>connectedglass-1.1.12-forge-mc1.20.1</li>
+	<li>NaturesCompass-1.20.1-1.11.2-forge</li>
+	<li>Kambrik-6.1.1+1.20.1-forge</li>
+	<li>rechiseled-1.1.6-forge-mc1.20</li>
+	<li>emitrades-forge-1.2.1+mc1.20.1</li>
+	<li>waystones-forge-1.20-14.1.6</li>
+	<li>curios-forge-5.11.0+1.20.1</li>
+	<li>AdditionalStructures-1.20.x-(v.4.2.2)</li>
+	<li>emi_loot-0.7.4+1.20.1+forge</li>
+	<li>tetracelium-1.20.1-1.3.0</li>
+	<li>MRU-1.0.3+1.20.1+forge</li>
+	<li>Patchouli-1.20.1-84-FORGE</li>
+	<li>caelus-forge-3.2.0+1.20.1</li>
+	<li>oceansdelight-1.0.2-1.20</li>
+	<li>snowundertrees-1.20.1-1.4.5</li>
+	<li>XaeroPlus-2.24.4+forge-1.20.1-WM1.39.0-MM24.5.0</li>
+	<li>supermartijn642configlib-1.1.8-forge-mc1.20</li>
+	<li>dynamic-fps-3.7.4+minecraft-1.20.0-forge</li>
+	<li>justplayerheads-1.20.1-4.1</li>
+	<li>collective-1.20.1-7.87</li>
+	<li>BeansBackpacks-forge-1.20.1-2.0.2</li>
+	<li>emi_enchanting-0.1.2+1.20.1+forge</li>
+	<li>creeperoverhaul-3.0.2-forge</li>
 </ul></body></html>
