@@ -1,4 +1,4 @@
-<b>HELLO</b>
+<b>Hello, friends!</b>
 <p>
 This is the other modpack Lena and I are making. Lots to work on! Big project!
 <p>
